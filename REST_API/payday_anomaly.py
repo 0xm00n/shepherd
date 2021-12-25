@@ -20,7 +20,7 @@ def checkDay():
     print(d)
     return d.strftime("%d")
 
-@repeat(every(2).seconds)
+@repeat(every(1).days)
 def runStrat():
     print(Fore.YELLOW + "[!] running strategy..." + Fore.RESET)
     checkDay()
