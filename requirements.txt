@@ -1,0 +1,8 @@
+riposte
+alpaca_trade_api
+colorama
+pandas
+tornado
+motor
+dnspython
+pymongo
