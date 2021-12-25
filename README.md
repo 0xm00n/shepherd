@@ -42,7 +42,7 @@ this was code I wrote for a uni CS class project, so obv not production grade an
 
 <br>
 
- ## CLI Docs
+ ## Docs
 <br>
 
 ```
@@ -71,6 +71,11 @@ portfolio_gain_loss - display connected porfolio's current gain/loss
 ```
 tradeable_or_not - check to see if symbol is tradeable w/ alpaca
 ```
+
+<br>
+
+- For REST API, you will need to fill in mongodb URI in app.py, handlers.py, and utils.py
+- Additionally, fill in API keys for alpaca in both REST API and CLI components JSON files
 
 <br>
 <br>
