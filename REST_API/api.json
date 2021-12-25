@@ -1,0 +1,5 @@
+{
+    "alpaca_endpoint": "https://paper-api.alpaca.markets",
+    "alpaca_apiKeyID": "fill in",
+    "alpaca_secretKey": "fill in"
+}
