@@ -1,7 +1,7 @@
 # shepherd
 <b> a simple quant trading bot with seperate CLI interface/ backend REST API </b>
 <br>
-this was code I wrote for a uni CS class project in basically one sitting, so definitely not production grade and mainly for learning about alpaca's API...
+this was code I wrote for a uni CS class project in basically one sitting, so sorry for the messy code...
 
 
 <br>
